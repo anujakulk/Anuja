@@ -1,0 +1,6 @@
+pompages\ChangePasswordPage.class
+pompages\LoginPage.class
+utility\CaptureScreen.class
+utility\ExtentReportHelper.class
+utility\JSMethods.class
+utility\ConfigReader.class
